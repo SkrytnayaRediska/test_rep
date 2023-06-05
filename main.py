@@ -7,4 +7,4 @@ def diff(a, b):
 
 
 print(summa(3, 4))
-print(diff(3, 10))
+print(diff(3, 7))

@@ -1,5 +1,5 @@
-def some_function(a, b):
+def summa(a, b):
     return a + b
 
 
-print(some_function(3, 4))
+print(summa(3, 4))
